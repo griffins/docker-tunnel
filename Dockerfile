@@ -1,6 +1,6 @@
 FROM alpine:3.12
 
-MAINTAINER Griffins Oringo <oringo.griffins@codeshares.io>
+MAINTAINER Griffins Oringo <oringogriffins78@gmail.com>
 
 RUN apk add openssh --no-cache
 
